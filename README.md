@@ -69,7 +69,7 @@ Shell-Jumper是一个纯shell开发的跳板机，能够满足基本的SSH免密
 - 记录的格式为 主机名=IP:端口，主机名自定义，最好识别性强，**且主机信息不允许重复，必须唯一**
 - 主机名需与/data/conf/jumperPermission内的主机名一
 
-#### 3.4、/data/pyScript/jumperPermission
+#### 3.4、/data/conf/jumperPermission
 
 脚本说明：
 
